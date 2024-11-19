@@ -12,6 +12,3 @@ def testar_iot_manager():
     print("\nConfigurações alteradas:", mesma_instancia)
 
     print("\nÉ a mesma instância?", configuracoes is mesma_instancia)
-
-
-testar_iot_manager()
